@@ -26,3 +26,11 @@ Example 3:
 Input: nums = [3,3], target = 6
 Output: [0,1]
 ```
+
+<br>
+
+Solutions:
+
+| Author | Solution | LeetCode solution |
+|-----------|-----------|-----------|
+| [Román](https://github.com/RomanKornyeyev)| [Java](./Solution.java)| [Java](https://leetcode.com/problems/two-sum/solutions/4076738/java-brute-force-solution/)|
