@@ -26,6 +26,24 @@ A phrase is a palindrome if, after converting all uppercase letters into lowerca
 |-----------|-----------|-----------|
 | [Román](https://github.com/RomanKornyeyev)| [Java](./problems/125_valid_palindrome/Solution.java)| [Java](https://leetcode.com/problems/two-sum/solutions/4076738/java-brute-force-solution/)|
 
+<br>
+
+### 412. FizzBuzz
+Given an integer n, return a string array answer (1-indexed) where:
+
+```
+answer[i] == "FizzBuzz" if i is divisible by 3 and 5.
+answer[i] == "Fizz" if i is divisible by 3.
+answer[i] == "Buzz" if i is divisible by 5.
+answer[i] == i (as a string) if none of the above conditions are true.
+```
+
+### Solution/s:
+
+| Author | Solution | LeetCode solution |
+|-----------|-----------|-----------|
+| [Román](https://github.com/RomanKornyeyev)| [Java](./problems/412_fizz_buzz/Solution.java)| [Java](https://leetcode.com/problems/fizz-buzz/solutions/4078483/easy-java-solution/)|
+
 <br><hr><br>
 
 ## 🟡 Medium
