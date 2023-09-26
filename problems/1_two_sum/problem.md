@@ -29,7 +29,7 @@ Output: [0,1]
 
 <br>
 
-Solutions:
+## Solutions:
 
 | Author | Solution | LeetCode solution |
 |-----------|-----------|-----------|

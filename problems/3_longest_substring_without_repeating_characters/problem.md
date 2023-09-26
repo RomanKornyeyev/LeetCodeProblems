@@ -1,4 +1,4 @@
-# 3. Longest Substring Without Repeating Characters
+# 3. Longest Substring Without Repeating Characters (🟡 Medium)
 [Problem in LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)<br>
 Given a string s, find the length of the longest substring without repeating characters.
 
@@ -23,3 +23,10 @@ Output: 3
 Explanation: The answer is "wke", with the length of 3.
 Notice that the answer must be a substring, "pwke" is a subsequence and not a substring.
 ```
+
+## Solutions:
+
+| Author | Solution | LeetCode solution |
+|-----------|-----------|-----------|
+| [Román](https://github.com/RomanKornyeyev)| [Java](./Solution.java)| [Java](https://leetcode.com/problems/longest-substring-without-repeating-characters/solutions/4069269/soluci-n-medio-decente-con-java/)|
+| [Ariel](https://github.com/arielg20247)| [JavaScript](./Solution.js)| - |
