@@ -1,4 +1,4 @@
-# 1. Two Sum
+# 1. Two Sum (🟢 Easy)
 [Problem in LeetCode](https://leetcode.com/problems/two-sum/description/)<br>
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
@@ -34,3 +34,4 @@ Output: [0,1]
 | Author | Solution | LeetCode solution |
 |-----------|-----------|-----------|
 | [Román](https://github.com/RomanKornyeyev)| [Java](./Solution.java)| [Java](https://leetcode.com/problems/two-sum/solutions/4076738/java-brute-force-solution/)|
+| [Román](https://github.com/RomanKornyeyev)| [Python](./Solution.py)| [Python](https://leetcode.com/problems/two-sum/solutions/4168382/easy-python-solution/)|
