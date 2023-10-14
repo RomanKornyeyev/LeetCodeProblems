@@ -12,7 +12,7 @@ Given an array of integers nums and an integer target, return indices of the two
 | Author | Solution | LeetCode solution |
 |-----------|-----------|-----------|
 | [Román](https://github.com/RomanKornyeyev)| [Java](./problems/1_two_sum/Solution.java)| [Java](https://leetcode.com/problems/two-sum/solutions/4076738/java-brute-force-solution/)|
-| [Román](https://github.com/RomanKornyeyev)| [Python](./problems/1_two_sum/Solution.py)| [Python](https://leetcode.com/problems/two-sum/solutions/4168382/easy-python-solution/)|
+| [Román](https://github.com/RomanKornyeyev)| [Python](./problems/1_two_sum/Solution.py)| [Python](https://leetcode.com/problems/two-sum/solutions/4168686/python-brute-force/)|
 
 <br>
 
