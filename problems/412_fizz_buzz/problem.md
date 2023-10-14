@@ -31,3 +31,4 @@ Output: ["1","2","Fizz","4","Buzz","Fizz","7","8","Fizz","Buzz","11","Fizz","13"
 | Author | Solution | LeetCode solution |
 |-----------|-----------|-----------|
 | [Román](https://github.com/RomanKornyeyev)| [Java](./Solution.java)| [Java](https://leetcode.com/problems/fizz-buzz/solutions/4078483/easy-java-solution/)|
+| [Román](https://github.com/RomanKornyeyev)| [Python](./Solution.py)| [Python](https://leetcode.com/problems/fizz-buzz/solutions/4167960/easy-python-solution/)|

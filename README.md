@@ -44,6 +44,7 @@ answer[i] == i (as a string) if none of the above conditions are true.
 | Author | Solution | LeetCode solution |
 |-----------|-----------|-----------|
 | [Román](https://github.com/RomanKornyeyev)| [Java](./problems/412_fizz_buzz/Solution.java)| [Java](https://leetcode.com/problems/fizz-buzz/solutions/4078483/easy-java-solution/)|
+| [Román](https://github.com/RomanKornyeyev)| [Python](./Solution.py)| [Python](https://leetcode.com/problems/fizz-buzz/solutions/4167960/easy-python-solution/)|
 
 <br><hr><br>
 
