@@ -31,3 +31,4 @@ Since an empty string reads the same forward and backward, it is a palindrome.
 | Author | Solution | LeetCode solution |
 |-----------|-----------|-----------|
 | [Román](https://github.com/RomanKornyeyev)| [Java](./Solution.java)| [Java](https://leetcode.com/problems/two-sum/solutions/4076738/java-brute-force-solution/)|
+| [Román](https://github.com/RomanKornyeyev)| [Python](./problems/125_valid_palindrome/Solution.py)| [Python](https://leetcode.com/problems/valid-palindrome/solutions/4167842/easy-python-solution/)|
