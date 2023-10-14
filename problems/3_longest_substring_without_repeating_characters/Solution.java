@@ -1,3 +1,9 @@
+/**
+ * Two sum solution
+ * @author Román
+ * @see {@link https://github.com/RomanKornyeyev} - GitHub profile
+ */
+
 class Solution {
     public int lengthOfLongestSubstring(String s) {
         ArrayList<String> letrasContenidas = new ArrayList<String>();

@@ -1,3 +1,9 @@
+/**
+ * Two sum solution
+ * @author Román
+ * @see {@link https://github.com/RomanKornyeyev} - GitHub profile
+ */
+
 class Solution {
     public boolean isPalindrome(String s) {
         //for default, the answer is true
